@@ -4,3 +4,6 @@ function abc() {
 function cdf() {
     console.log(456);
 }
+function hgi(){
+    console.log(789);
+}
